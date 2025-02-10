@@ -6,20 +6,39 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_pranav.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! Welcome to my website!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a PhD student in Physics at [University of Florida](https://www.phys.ufl.edu/wp/), working with [Dr. Laura Blecha](http://www.phys.ufl.edu/~lblecha/) on supermassive black holes and galaxy evolution. For a detailed summary of my research and projects, checkout the [research page](projects). I did a BS-MS Physics at [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I was involved in modelling gravitational waveforms. 
+
+I am also very active in science communication and outreach and volunteer as a science-writer for Astrobites. Also, check out my science comics! 
+
+
+
+
+
+<!-- <p align="center">
+<img align="center" width="500" height="500" src="https://media.newyorker.com/cartoons/593b65345d2f45736c34cecc/master/w_1280,c_limit/birds.jpg">
+</p>
+
+<div style="text-align: center"> <em>"Was that you I heard just now, or was it two black holes colliding?”</em>  </div>
+
+
+<div style="text-align: center"> <small> Credits: New Yorker, February 12, 2016 </small></div> -->
+
+
+
+
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
