@@ -8,6 +8,7 @@ tags:
   - compact binaries
   - inspiral
 categories: tutorials
+related_posts: false
 ---
 
 

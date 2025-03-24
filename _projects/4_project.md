@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: Massive black formation and assembly in the early universe
 description: another without an image
 img:
-importance: 3
-category: fun
+importance: 2
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

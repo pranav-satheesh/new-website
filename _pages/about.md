@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Graduate Student
+
 
 profile:
   align: right
@@ -15,15 +16,16 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi! Welcome to my website!
 
 
-I am a PhD student in Physics at [University of Florida](https://www.phys.ufl.edu/wp/), working with [Dr. Laura Blecha](http://www.phys.ufl.edu/~lblecha/) on supermassive black holes and galaxy evolution. For a detailed summary of my research and projects, checkout the [research page](projects). I did a BS-MS Physics at [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I was involved in modelling gravitational waveforms. 
+I am a PhD student in Physics at [University of Florida](https://www.phys.ufl.edu/wp/), working with [Dr. Laura Blecha](http://www.phys.ufl.edu/~lblecha/) on supermassive black holes and galaxy evolution. For a detailed summary of my research and projects, checkout the [research page](projects). Previously, I did a BS-MS Physics at [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I was involved in modelling gravitational waveforms for binary black holes. 
 
-I am also very active in science communication and outreach and volunteer as a science-writer for Astrobites. Also, check out my science comics! 
+I am very active in science communication and outreach and volunteer as a science-writer for Astrobites. I also make science-comics! You can check them out here.
+
 
 
 
