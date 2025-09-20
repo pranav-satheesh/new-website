@@ -106,6 +106,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/pranav-satheesh-24a460152", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-0963-4686", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
