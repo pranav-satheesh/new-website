@@ -5,10 +5,10 @@ description: Postprocessing massive black hole dynamics in cosmological simulati
 img: assets/img/binary_hardening.png
 importance: 1
 category: work
-related_publications: false
+related_publications: true
 ---
 
-Cosmological simulations have a spatial resolution below which you cannot resolve processes of supermassive black hole dynamics. After a galaxy merger, the massive black hole binary inspirals towards each other and various environmental effects of the merger host contributes to the hardening of the binary. I work on models that incorporate such physical effects.
+Cosmological simulations have a spatial resolution below which you cannot resolve processes of supermassive black hole dynamics. After a galaxy merger, the massive black hole binary inspirals towards each other and various environmental effects of the merger host contributes to the hardening of the binary. I work on models that incorporate such physical effects {% cite 2025arXiv250604369S %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

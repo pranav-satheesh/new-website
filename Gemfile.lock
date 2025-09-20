@@ -302,7 +302,7 @@ DEPENDENCIES
   css_parser
   feedjira
   httparty
-  jekyll (~> 4.3)
+  jekyll
   jekyll-archives
   jekyll-email-protect
   jekyll-feed

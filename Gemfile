@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
-# Core Jekyll
-gem 'jekyll', '~> 4.3'
+# Core dependencies
 gem 'kramdown-parser-gfm'
 gem 'webrick'
 
 group :jekyll_plugins do
     gem 'classifier-reborn'
+    gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'

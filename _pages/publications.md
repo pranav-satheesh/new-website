@@ -15,7 +15,6 @@ nav_order: 3
 
 <div class="publications">
 
-<!-- {% bibliography %} -->
-<p>Publications page temporarily disabled while fixing Jekyll Scholar compatibility.</p>
+{% bibliography %}
 
 </div>
