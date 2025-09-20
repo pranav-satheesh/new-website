@@ -2,7 +2,7 @@
 layout: post
 title: 'Visualizing a simple GW chirp signal'
 date: 2022-01-29 16:40:16
-description: march & april, looking forward to summer
+description: 
 tags:
   - gravitational wave
   - compact binaries

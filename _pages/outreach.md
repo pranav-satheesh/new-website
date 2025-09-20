@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /outreach/
-title: "outreach"
+permalink: /Outreach/
+title: "Outreach"
 nav: true
 nav_order: 5
 ---
@@ -11,30 +11,27 @@ nav_order: 5
 
 ![](https://media0.giphy.com/media/l0JMrPWRQkTeg3jjO/giphy.gif) -->
 
+## Science comics and writing
+<img src="/assets/img/smbh_comics.jpeg" alt="Science comic illustration" style="float: left; margin: 1rem 2rem 1rem 0; max-width: 200px; height: auto; border-radius: 6px;">
 
-## Science writing and illustrations
+I love making comics illustrating aspects of supermassive black holes, galaxy evolution and gravitational waves. You can find my comic on massive black hole formation published [here](https://sciwri.club/archives/13482) in ClubSciWri. 
 
-Check out my Astrobite articles here 
-and my science comics here
+*I'm working on a seperate page for my comics* :-)
 
-
-
-
-
+I volunteered as a writer for [Astrobites](https://astrobites.org/) (2023-2025). Astrobites cover astrophysical literature and present it in format accessible to undergraduate students in the physical sciences who are interested in active research. You can find all of my articles [here](https://astrobites.org/author/psatheesh/).
 
 
 
+## Science talks and workshops
 
-Promoting science and spreading awareness should go hand in hand with scientific development. During my time as an undergrad at IIT Madras, I was fortunate to be part of several outreach activities as part of [Horizon: the physics and astronomy club](https://horizoniitm.github.io/). 
+<img src="/assets/img/talk1.jpeg" alt="my_talk" style="float: right; margin: 1rem 1rem; max-width: 400px; height: auto; border-radius: 4px;">
 
+These are talks I have given at UF Physics as part of the Graduate Student Postdoc Seminar organized by the [Physics Graduate Community](https://www.phys.ufl.edu/wp/index.php/graduate/physics-graduate-community/).
 
+- **Scripting the origin story of supermassive black holes**, Sep 2024
+- **It takes three to tango: Massive black hole triples and the final parsec problem**, Sep 2023
 
-
-
-
-## Talks and workshops
-
-I love giving talks. Talks are one of the effective ways of communicaating your research. During my undergrad, I got to organize several lecture presentations and workshops. Below is a list of some of them.
+During my undergrad, I got to organize several lecture presentations and workshops. Below is a list of some of them.
 
 - **Relativity and Gravitation**, [*Horizon summer school 2021*](https://github.com/HorizonIITM/summer-school-2021), March 2020
 - **Physics of Compact Stars**, *Boltzmann Session*, April 2020
@@ -48,11 +45,8 @@ I love giving talks. Talks are one of the effective ways of communicaating your 
 I made a set of lectures on Python for Astronomy that aims to teach application of Python programming language in various aspects of Astronomy research. I could cover topics such as handling FITS files, making Color-Magnitude diagrams, curve-fitting and modeling data. The video playlist is available [here](https://youtube.com/playlist?list=PL2rHXmvrOZXbQviht65mZSOW0_s1ZPpLA).
  
 
-<!-- 
-## Trips and Observation sessions
+## Astronomy outreach
 
+<img src="/assets/img/lunar_eclipse.webp" alt="lunar-eclipse" style="float: right; margin: 0 0 1rem 1rem; max-width: 300px; height: auto; border-radius: 4px;">
 
-
-The most fun I had during my undergrad was during our club's trip to the Vainu Bappu Observatory,   and about 3 hours drive from Chennai. A trip to VBO was an annual ritual for our club and we had lots of fun taking countless photos of the night sky, seeing Milky Way in its full glory and operating the 14-inch telescope at the observatory. 
-
-We also keep observation session at IITM for the student body and for the general public during Shaastra (IITM's tech fest). We had over 1000 footfall for our 2018 lunar eclipse event ! Checkout the club website for [photos](https://horizoniitm.github.io/gallery/). -->
+During my time as an undergrad at IIT Madras, I was fortunate to be part of several outreach activities as part of [Horizon: the physics and astronomy club](https://horizoniitm.github.io/). I served as the head during 2019-2020. Checkout the club website for --> [photos](https://horizoniitm.github.io/gallery/). 

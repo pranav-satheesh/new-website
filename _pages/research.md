@@ -1,7 +1,9 @@
 ---
 layout: page
-permalink: /research/
+permalink: /w/
 title: "Research"
+nav: false
+nav_order: 0
 ---
 
 # This page is being updated :)
