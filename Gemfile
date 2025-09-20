@@ -1,7 +1,12 @@
 source 'https://rubygems.org'
+
+# Core Jekyll
+gem 'jekyll', '~> 4.3'
+gem 'kramdown-parser-gfm'
+gem 'webrick'
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
-    gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -20,7 +25,6 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'terser'
     gem 'unicode_utils'
-    gem 'webrick'
 end
 group :other_plugins do
     gem 'css_parser'
