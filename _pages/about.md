@@ -7,7 +7,7 @@ subtitle: Graduate Student (he/him)
 
 profile:
   align: right
-  image: prof_pic_pranav.jpg
+  image: pranav_satheesh.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: pranavsatheesh@ufl.edu</p>
